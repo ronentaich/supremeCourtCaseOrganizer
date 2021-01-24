@@ -1,6 +1,4 @@
 // Specification file for the HashList class
-// Written By: Alan Kashiwagi
-// IDE: Visual Studio
 
 #ifndef HASH_H
 #define HASH_H
