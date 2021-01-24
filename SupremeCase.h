@@ -1,7 +1,4 @@
 // Specification file for the Supreme court case class
-// Written By: Ben Hansen
-// Changed By: Alan
-// IDE: Visual Studio Code
 
 #ifndef CASE_H
 #define CASE_H
