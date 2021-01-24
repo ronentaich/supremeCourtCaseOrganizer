@@ -1,7 +1,5 @@
 // main file for implementation and insert/ delete managers
-// Written By: Alan
-// Changed By: Ronen
-// IDE: Visual Studio Code & Xcode
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>
