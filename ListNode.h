@@ -1,6 +1,4 @@
 // Specification file for ListNode class
-// Written By: Alan Kashiwagi
-// IDE: Visual Studio
 
 #ifndef LISTNODE_H
 #define LISTNODE_H
