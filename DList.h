@@ -1,7 +1,4 @@
 // Specification file for the DList class
-// Written By: A. Student
-// Changed By: Alan Kashiwagi
-// IDE: Visual Studio
 
 #ifndef LINKED_LIST_H
 #define LINKED_LIST_H
