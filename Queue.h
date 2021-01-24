@@ -1,7 +1,5 @@
 // Specification file for the Queue class
-// Written By: A. Student
-// Changed By: J. Moudy
-// IDE: Visiual Studio
+
 #ifndef DYNAMICQUEUE_H
 #define DYNAMICQUEUE_H
 #include <iostream>
